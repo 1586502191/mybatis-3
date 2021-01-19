@@ -11,3 +11,7 @@ MyBatis SQL Mapper Framework for Java
     * [《MyBatis源码分析之SqlSession的创建过程》](https://my.oschina.net/u/657390/blog/663991)
     * [《MyBatis源码分析之mapper动态代理》](https://my.oschina.net/u/657390/blog/748646)
  
+* 设计模式
+
+    * [《工厂模式》](https://my.oschina.net/u/657390/blog/645960)
+    * [《单例模式》](https://my.oschina.net/u/657390/blog/646811)
